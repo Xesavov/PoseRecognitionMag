@@ -1,2 +1,0 @@
-# PoseRecognitionMag
-Master Degree
